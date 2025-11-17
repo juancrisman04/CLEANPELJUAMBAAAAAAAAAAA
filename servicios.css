@@ -144,7 +144,7 @@ body {
     animation: slideInLeft 1s ease-out;
 
     /* Imagen de fondo */
-    background-image: url('imgCleanPel/BAÑOS\ CP\ HERO\ 2.jpeg'); 
+    background-image: url('imgCleanPel/BAÑOS\ CP\ HERO\ 2.jpg'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed; /* efecto tipo parallax */
@@ -236,7 +236,7 @@ body {
 .main-services {
     position: relative;
     padding: 70px 0;
-    background-image: url('imgCleanPel/BAÑOS\ CP.jpeg'); /* ← cambia por tu imagen */
+    background-image: url('imgCleanPel/BAÑOS\ CP.jpg'); /* ← cambia por tu imagen */
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* efecto tipo parallax */
@@ -503,7 +503,7 @@ body {
 .advantages {
     position: relative;
     padding: 70px 0;
-    background-image: url('imgCleanPel/porque\ elegir\ clean\ pel.jpeg');
+    background-image: url('imgCleanPel/porque\ elegir\ clean\ pel.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* efecto tipo parallax */
